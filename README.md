@@ -1,4 +1,4 @@
-# wickedproblems
+# Wicked Problems
 
 Jonghyuck (David) Roh 
 
