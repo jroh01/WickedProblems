@@ -6,7 +6,7 @@ Jonghyuck (David) Roh
 
 A brief description of the image. 
 
-![]() 
+![](serbia.png) 
 
 Some challenges I had with producing this plot. Some findings regarding the investigation. Reflection on my work. 
 
