@@ -14,4 +14,4 @@ Jonghyuck (David) Roh
 
 ## Project 1 
 
-1. [Serbia_Map](https://github.com/jroh01/wickedproblems/blob/master/serbia.png) 
+1. [Serbia](https://github.com/jroh01/wickedproblems/blob/master/project1.md) 
