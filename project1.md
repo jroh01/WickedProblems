@@ -11,3 +11,5 @@ A brief description of the image.
 Some challenges I had with producing this plot. Some findings regarding the investigation. Reflection on my work. 
 
 ## Population 
+
+![](srb_pop19.png)
