@@ -9,7 +9,7 @@ Jonghyuck (David) Roh
 
 ## Responses to Readings 
 
-1. [Blumenstock_Response](https://github.com/jroh01/workshop/blob/master/blumenstock.md) (Jan 27)
+1. [Blumenstock_Response](https://github.com/jroh01/wickedproblems/blob/master/blumenstock.md) (Jan 27)
 2. [Lloyd_Response](https://github.com/jroh01/wickedproblems/blob/master/LloydResponse.md) (Feb 10)
 3. [Wardrop_Response](https://github.com/jroh01/wickedproblems/blob/master/WardropResponse.md) (Feb 17)
 
