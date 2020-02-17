@@ -1,7 +1,5 @@
 # Response To Blumenstock 
-David Roh 
-
-January 27, 2020
+## Jonghyuck (David) Roh 1/27/20
 
 Reading: Joshua Blumenstock - 
 Don’t forget people in the use of big data for development Nature: Sept. 2018
