@@ -16,4 +16,4 @@ Some challenges I had with producing this plot. Some findings regarding the inve
 
 ## Population Density of Serbia
 
-![](serbia2019.png)
+![](Serbia2019.png)
