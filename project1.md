@@ -10,6 +10,10 @@ A brief description of the image.
 
 Some challenges I had with producing this plot. Some findings regarding the investigation. Reflection on my work. 
 
-## Population 
+## Population of Serbia
 
 ![](srb_pop19.png)
+
+## Population Density of Serbia
+
+![](serbia2019.png)
