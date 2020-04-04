@@ -21,5 +21,5 @@ Jonghyuck (David) Roh
 
 ## Project 2 
 
-1. [Serbia]
+1. [Serbia](https://github.com/jroh01/WickedProblems/blob/master/project2.md)
 
