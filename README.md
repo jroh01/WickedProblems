@@ -19,3 +19,7 @@ Jonghyuck (David) Roh
 
 1. [Serbia](https://github.com/jroh01/wickedproblems/blob/master/project1.md) 
 
+## Project 2 
+
+1. [Serbia]
+
