@@ -9,11 +9,11 @@ Jonghyuck (David) Roh
 
 ## Responses to Readings 
 
-1. [Blumenstock_Response](https://github.com/jroh01/wickedproblems/blob/master/blumenstock.md) (Jan 27)
-2. [Lloyd_Response](https://github.com/jroh01/wickedproblems/blob/master/LloydResponse.md) (Feb 10)
-3. [Wardrop_Response](https://github.com/jroh01/wickedproblems/blob/master/WardropResponse.md) (Feb 17)
-4. [Stevens_Response](https://github.com/jroh01/Wicked_Problems/blob/master/stevens.md) (March 2)
-5. [Nieves_Response](https://github.com/jroh01/WickedProblems/blob/master/NievesResponse.md) (March 25)
+1. [Blumenstock_Response](https://jroh01.github.io/WickedProblems/blumenstock) (Jan 27)
+2. [Lloyd_Response](https://jroh01.github.io/WickedProblems/LloydResponse) (Feb 10)
+3. [Wardrop_Response](https://jroh01.github.io/WickedProblems/WardropResponse) (Feb 17)
+4. [Stevens_Response](https://jroh01.github.io/WickedProblems/stevens) (March 2)
+5. [Nieves_Response](https://jroh01.github.io/WickedProblems/NievesResponse) (March 25)
 
 ## Project 1 
 
