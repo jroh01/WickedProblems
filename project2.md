@@ -31,6 +31,41 @@ The image below is similar to the one above, but it uses different variables for
 
 ## Modeling & Predicting Spatial Values
 
+The image below is the population plot for Novi Beograd, Serbia.
+
+![](Novi_Beograd_pop_plot.png) 
+
+The image below is the difference plot that shows the difference between the predicted population value and the actual population value of Novi Beograd, Serbia.
+
+![](Novi_Beograd_diff_plot.png)
+
+The image below is the 3D representation of the spatial values for Novi Beograd, Serbia. 
+
+![](3DNoviBeograd.jpeg) 
+
+The image below is from placing the difference plot of Novi Beograd on top of the Open Street Map. 
+
+![](Novi_Beograd_diffPlotonOpenStreetMap.png) 
+
+The image below is the population plot for Palilula, Belgrade, Serbia.  
+
+![](Palilula_pop_plot.png) 
+
+The image below is the differnce plot that represents the difference between the predicted population values and the actual population values of Palilula, Belgrade, Serbia. 
+
+![](Palilula_diff_plot.png) 
+
+The image below is the 3D representation of the spatial values for Palilula, Belgrade, Serbia. 
+
+![](3DPalilula.jpeg) 
+
+The image below is from placing the difference plot of Palilula on top of the Open Street Map. 
+
+![](Palilula_diffPlotonOpenStreetMap.png) 
+
+
+
+
 
 
 
