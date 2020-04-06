@@ -4,7 +4,7 @@ Jonghyuck (David) Roh
 
 ## Acquiring, Modifying and Describing the Data
 
-The image below is a histogram that represents the population counts of each 2nd administrative subdivisions of Serbia. To create the histogram, I added a column to my adm2 object that had the pop19 values for each adm2s of Serbia. Them, geom_histogram was used to actually produce the histogram as a representation. The log function was used to scale the population values down, as without it, the population values would be too big on the x-axis.
+The image below is a histogram that represents the population counts of each 2nd administrative subdivisions of Serbia. To create the histogram, I added a column to my adm2 object that had the pop19 values for each adm2s of Serbia. Then, geom_histogram was used to actually produce the histogram as a representation. The log function was used to scale the population values down, as without it, the population values would be too big on the x-axis.
 
 ![](SerbiaP2pt1histogram.png)
 
@@ -12,7 +12,7 @@ The image below is a line plot that represents the population density for each 2
 
 ![](SerbiaP2pt1density.png)
 
-The image below is a combined plot that shows both the histogram of the population of the 2nd administrative subdivisions of Serbia and the line plot of the population density of the 2nd administrative subdivisions of Serbia. 
+The image below is a combined plot that shows both the histogram of the population of the 2nd administrative subdivisions of Serbia and the line plot of the population density.
 
 ![](SerbiaP2pt1combined.png)
 
@@ -69,7 +69,7 @@ The main problem that I ran into for this project was the fact that until now, w
 
 ## Things That Could Be Improved 
 
-The main thing that could be improved is using pop15 values instead of pop19 values for the part 1 of this project. The main reason is because all the other covariate data that I used for Serbia in part 1 was based on the 2015 data. So, it could be more accurate if  I used 2015's population values instead of 2019's. 
+The main thing that could be improved is using pop15 values instead of pop19 values for the part 1 of this project. The main reason is because all the other covariate data that I used for Serbia in part 1 was based on the 2015 data. So, it could be more accurate if I used 2015's population values instead of 2019's. 
 
 
 
