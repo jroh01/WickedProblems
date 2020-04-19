@@ -1,4 +1,4 @@
-# Project 2: Serbia
+# Project 2: Investigating Land Use and Land Cover
 
 Jonghyuck (David) Roh 
 
