@@ -12,11 +12,11 @@ On top of the image above, I added points which the size reflects the population
 
 ![](bor_densitywithpoints.png)
 
-You can observe that although the biggest urban area of Bor has one of the biggest point (bigger population residing in that urban area), it also has a very low population density due to the size of the area (represented by the yellow point). You can also see that the leftmost urbanized area has the biggest population, but because of the small size of the area, it also has the biggest population density. Other than these two areas with extreme population densities, all of the other urbanized areas has a relatively small population with a small population density. 
+You can observe that although the biggest urban area of Bor has one of the biggest population, it also has a very low population density due to the size of the area. You can also see that the leftmost urbanized area has the biggest population, but because of the small size of the area, it also has the biggest population density. Other than these two areas with extreme population densities, all of the other urbanized areas have relatively small populations with small population densities. 
 
 ## Adding Transportation Facilities & Health Care Services 
 
-Following through last two images, I have located and labeled the road networks that run through Bor. The resulting image is shown below. 
+For the second part of the project, I have located and labeled the road networks that run through Bor. The resulting image is shown below. 
 
 ![](Roadways THroughout Bor.png)
 
@@ -26,7 +26,7 @@ In addition to the road network, I have also identified the health care faciliti
 
 ![](Bor_hcf.png)
 
-The white points represent hospitals and the lightblue point represents a clinic. You can observe that there is actually only one hospital located in the biggest urbanized area of Bor, and there is only one hospital and one clinic located near Bor. This is a huge problem since everyone in Bor would either have to go to the hospital located in the one urbanized area in Bor or travel to other towns to receive health care. 
+The white points represent hospitals and the lightblue point represents a clinic. You can observe that there is actually only one hospital located in the biggest urbanized area of Bor, and there are only one hospital and one clinic located near Bor. This is a huge problem since everyone in Bor would either have to go to the hospital located in the one urbanized area in Bor or travel to other towns to receive health care. 
 
 I have combined the previous image with the image used in the first part of the project below. 
 
