@@ -18,7 +18,7 @@ You can observe that although the biggest urban area of Bor has one of the bigge
 
 For the second part of the project, I have located and labeled the road networks that run through Bor. The resulting image is shown below. 
 
-![](Roadways_Troughout_Bor.png)
+![](Roadways_Throughout_Bor.png)
 
 The red lines represent the main primary roads, the orange lines represent the secondary roads, and the purple lines represent the tertiary roads. The tertiary roads are roads that have low to moderate traffic, so these could be roadways between smaller subdivisions such as villages and towns. The secondary and primary roads are the main roads such as highways. You can see that although the primary roads only connect to the more populated and big urban area of Bor and to the other cities, inside of Bor, secondary and tertiary roads connect to more areas, as Bor is composed of mainly small urbanized and non-urbanized areas.
 
