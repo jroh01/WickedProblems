@@ -4,7 +4,7 @@ Jonghyuck (David) Roh
 
 ## De Facto Description of Human Settlements and Urban Areas
 
-For project 3, I chose to investigate the urban areas of a small adm2 subdivision (town) of Serbia called Bor. Bor has a population of about 120,000 and is located on the eastern side of Serbia. The image below shows the urban areas of Bor, which are represented by the lightblue polygons. Due to how small the town is, there are only a few urbanized areas and the sizes of most of these urbanized areas are relatively small.
+For project 3, I chose to investigate the urban areas of a small adm2 subdivision (town) of Serbia called Bor. Bor has a population of about 120,000 and is located on the eastern side of Serbia. The image below shows the 9 urban areas of Bor, which are represented by the 9 lightblue polygons. Due to how small the town is, there are only a few urbanized areas and the sizes of most of these urbanized areas are relatively small.
 
 ![](bor_urban_areas.png) 
 
