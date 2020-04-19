@@ -17,13 +17,13 @@ Jonghyuck (David) Roh
 
 ## Project 1 
 
-1. [Serbia](https://jroh01.github.io/WickedProblems/project1) 
+1. [Serbia - Administrative Units, Population, and Description](https://jroh01.github.io/WickedProblems/project1) 
 
 ## Project 2 
 
-1. [Serbia](https://jroh01.github.io/WickedProblems/project2)
+1. [Serbia - Investigating Land Use and Land Cover](https://jroh01.github.io/WickedProblems/project2)
 
 ## Project 3 
 
-1. [Serbia](https://jroh01.github.io/WickedProblems/project3)
+1. [Serbia - Accessibility to Health Care Through Transporation Facilities](https://jroh01.github.io/WickedProblems/project3)
 
