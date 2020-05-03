@@ -12,6 +12,6 @@ From this image, you can see that topography had a big impact on the development
 
 Topography also appears to have impacted the development of transportation facilities because although the secondary and tertiary roads that connect areas within the adm2 region run through mountainous regions, the main primary roads such as highways that connect to other districts only run through areas that are relatively flat. 
 
-Although there is really only one health care facility that is located within the borders of the municipality of Bor, you can see that it is located within the urban area of Bor City which has relatively low elevation. We can assume that even if there were more health care facilities, they would be centered around flatter areas and near urban areas. 
+Although there is only one healthcare facility that is located within the borders of the municipality of Bor, you can see that it is located within the urban area of Bor City which has relatively low elevation. We can assume that even if there were more healthcare facilities, they would be centered around flatter areas and near urban areas. 
 
 Before doing this project, I never really considered topography to have such a huge impact, but looking at the result, I realized how much of an impact topography can have on human development. 
