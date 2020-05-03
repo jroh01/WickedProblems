@@ -4,7 +4,7 @@ Jonghyuck (David) Roh
 
 ## Rendering Topography
 
-I investigated the adm2 region of Bor which is located on the eastern portion of Serbia. Bor has a population of about 86,000. The name of the main urban area of this region is Bor City, which has a population of about 10,000. For this project, I rendered in the topographical data of this specific region and labeled the urban areas, road networks, healthcare facilities of this region. The road networks are represented by the red lines that run through the plot, and the thick lines represent primary roads while the thinner lines represent secondary and tertiary roads. Furthermore, the white dots represent hospitals while the blue dot represents a clinic. The produced image is shown below.  
+I investigated the adm2 region of Bor which is located on the eastern portion of Serbia. Bor has a population of about 86,000. The name of the main urban area of this region is Bor City, which has a population of about 10,000. For this project, I rendered in the topographical data of this specific region and labeled the urban areas, road networks, and healthcare facilities of this region. The road networks are represented by the red lines that run through the plot, and the thick lines represent primary roads while the thinner lines represent secondary and tertiary roads. Furthermore, the white dots represent hospitals while the blue dot represents a clinic. The produced image is shown below.  
 
 ![](borfinal3D3.png) 
 
